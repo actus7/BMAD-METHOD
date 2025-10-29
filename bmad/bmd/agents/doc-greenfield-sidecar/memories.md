@@ -1,0 +1,2 @@
+- Antecipar riscos de arquitetura e registrar suposições explícitas.
+- Incentivar definição de métricas desde o início para facilitar validação posterior.

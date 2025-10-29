@@ -1,0 +1,2 @@
+- Sempre mapear riscos associados a integrações legadas antes de sugerir refatorações.
+- Priorizar entregas incrementais que reduzam débito técnico sem interromper operação.
