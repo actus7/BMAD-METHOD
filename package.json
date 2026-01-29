@@ -65,7 +65,7 @@
     "commander": "^14.0.0",
     "csv-parse": "^6.1.0",
     "figlet": "^1.8.0",
-    "fs-extra": "^11.3.0",
+    "fs-extra": "^11.3.3",
     "glob": "^11.0.3",
     "ignore": "^7.0.5",
     "inquirer": "^8.2.6",
